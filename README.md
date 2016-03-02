@@ -65,7 +65,12 @@ Curated list of learning resources
 
 **Level 4**
 
-*TODO*
+| **#** | **Course Name** | **Type** | **Length** | **Topic** | **Source** | **Author** | **Release Date** | **Paid?** |
+| ----- | --------------- | -------- | ---------- | --------- | ---------- | ---------- | ---------------- | ------- |
+| 1 | [AngularJS in Patterns](https://github.com/mgechev/angularjs-in-patterns) | Guide | N/A | Design Patterns | GitHub Repo | Minko Gechev | 20/12/2015 | No
+| 2 | [React: Flux Architecture (ES5)](https://egghead.io/series/react-flux-architecture) | Video | 00:55:37 | Unidirectional Data Flow | Egghead | Joe Maddalone | N/A | Partially
+| 3 | [Introduction to Reactive Programming](https://egghead.io/series/introduction-to-reactive-programming) | Video | 00:50:55 | Reactive Programming | Egghead | André Staltz | N/A | Yes
+| 4 | [Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals) | Video | 01:37:37 | Reactive Programming | Egghead | André Staltz | N/A | No
 
 **Level 5**
 
