@@ -54,7 +54,14 @@ Curated list of learning resources
 
 **Level 3**
 
-*TODO*
+| **#** | **Course Name** | **Type** | **Length** | **Topic** | **Source** | **Author** | **Release Date** | **Paid?** |
+| ----- | --------------- | -------- | ---------- | --------- | ---------- | ---------- | ---------------- | ------- |
+| 1 | [Build Process, Workflows and Tooling With Grunt.js and Beyond](https://www.pluralsight.com/courses/build-process-workflows-tooling-gruntjs) | Video | 05:46:00 | JS Fundamentals | Pluralsight | David Mosher | 20/08/2014 | Yes
+| 2 | [Hardcore Functional Programming in Javascript](https://www.pluralsight.com/courses/hardcore-functional-programming-javascript) | Video | 06:03:00 | Advanced Javascript | Pluralsight | Brain Lonsdorf | 08/04/2015 | Yes
+| 3 | [NPM Playbook](https://www.pluralsight.com/courses/npm-playbook) | Video | 00:58:13 | JS Tooling | Pluralsight | Joe Eames | 11/12/2015 | Yes
+| 4 | [React Testing Cookbook](https://egghead.io/series/react-testing-cookbook) | Video | 00:38:46 | Testing | Pluralsight | Trevor D. Miller | N/A | Partially
+| 5 | [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) | Video | 02:01:25 | Unidirectional Data Flow | Egghead | Dan Abramov | N/A | No
+| 6 | [Webpack: How-to](https://github.com/petehunt/webpack-howto) | Guide | N/A | JS Tooling | GitHub Repo | Pete Hunt | 09/02/2016 | No
 
 **Level 4**
 
