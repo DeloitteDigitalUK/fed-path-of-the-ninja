@@ -51,7 +51,6 @@ Curated list of learning resources
 | 12 | [jQuery In-Depth](https://www.pluralsight.com/courses/jquery-in-depth) | Video | 03:35:00 | jQuery | Plurasight | Karl Swedberg | 18/02/2013 | Yes
 | 13 | [JS.Next: ES6](https://www.pluralsight.com/courses/js-next-es6) | Video | 05:24:00 | Javascript | Pluralsight | Aaron Frost | 06/04/2015 | Yes
 | 14 | [React: How-to](https://github.com/petehunt/react-howto) | Guide | N/A | JS Frameworks | GitHub Repo | Pete Hunt | 17/02/2016 | No
-| 15 | [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals) | Video, Text, Quiz | N/A | JS Frameworks | ReactJS Program | Tyler McGinnis | 01/03/2016 | No
 
 **Level 3**
 
@@ -69,7 +68,7 @@ Curated list of learning resources
 | **#** | **Course Name** | **Type** | **Length** | **Topic** | **Source** | **Author** | **Release Date** | **Paid?** |
 | ----- | --------------- | -------- | ---------- | --------- | ---------- | ---------- | ---------------- | ------- |
 | 1 | [AngularJS in Patterns](https://github.com/mgechev/angularjs-in-patterns) | Guide | N/A | Design Patterns | GitHub Repo | Minko Gechev | 20/12/2015 | No
-| 2 | [React: Flux Architecture (ES5)](https://egghead.io/series/react-flux-architecture) | Video | 00:55:37 | Unidirectional Data Flow | Egghead | Joe Maddalone | N/A | Partially
+| 2 | [React: Flux Architecture (ES6)](https://egghead.io/series/react-flux-architecture-es6) | Video | 00:49:42 | Unidirectional Data Flow | Egghead | Joe Maddalone | N/A | No
 | 3 | [Introduction to Reactive Programming](https://egghead.io/series/introduction-to-reactive-programming) | Video | 00:50:55 | Reactive Programming | Egghead | André Staltz | N/A | Yes
 | 4 | [Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals) | Video | 01:37:37 | Reactive Programming | Egghead | André Staltz | N/A | No
 
@@ -84,3 +83,7 @@ Curated list of learning resources
 **Level 7**
 
 *TODO*
+
+# Contributing
+
+Please see CONTRIBUTING.md file.
