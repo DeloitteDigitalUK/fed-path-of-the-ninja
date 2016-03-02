@@ -51,6 +51,7 @@ Curated list of learning resources
 | 12 | [jQuery In-Depth](https://www.pluralsight.com/courses/jquery-in-depth) | Video | 03:35:00 | jQuery | Plurasight | Karl Swedberg | 18/02/2013 | Yes
 | 13 | [JS.Next: ES6](https://www.pluralsight.com/courses/js-next-es6) | Video | 05:24:00 | Javascript | Pluralsight | Aaron Frost | 06/04/2015 | Yes
 | 14 | [React: How-to](https://github.com/petehunt/react-howto) | Guide | N/A | JS Frameworks | GitHub Repo | Pete Hunt | 17/02/2016 | No
+| 15 | [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals) | Video, Text, Quiz | N/A | JS Frameworks | ReactJS Program | Tyler McGinnis | 01/03/2016 | No
 
 **Level 3**
 
