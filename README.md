@@ -88,3 +88,11 @@ Curated list of learning resources
 # Contributing
 
 Please see CONTRIBUTING.md file.
+
+| | [Building a Realtime Web Application with Meteor.js](https://www.pluralsight.com/courses/meteorjs-web-application) | Video | 03:26:00 | JS Frameworks | Pluralsight | Rob Conery | 14/07/2015 | Yes
+| | [Discover Meteor](https://www.discovermeteor.com/) | eBook | 14 Chapters | JS Frameworks | Discover Meteor | Tom Coleman & Sacha Greif | 21/10/2015 | Yes
+| | [Mastering Meteor](https://mastering.meteorjs.club/) | Video | 08:00:00 | JS Frameworks | MeteorClub | Josh Owens | N/A | Yes
+| | [Meteor For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV) | Video | 02:46:52 | JS Frameworks | LevelUpTuts | Scott Tolinski | 22/11/2015 | No
+| | [Intermediate Meteor](https://www.youtube.com/playlist?list=PLLnpHn493BHFYZUSK62aVycgcAouqBt7V) | Video | 03:19:55 | JS Frameworks | LevelUpTuts | Scott Tolinkski | 16/12/2015 | No
+| | [BulletProof Meteor](https://bulletproofmeteor.com/) | Guide | N/A | JS Frameworks | Kadira | N/A | N/A | No
+| | [Introduction to Meteor.js Development](https://www.coursera.org/learn/meteor-development) | Course | 4 Weeks | JS Frameworks | Coursera | Dr Matthew Yee-King | Recurring MOOC | No (Yes with certificate)
