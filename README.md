@@ -63,6 +63,13 @@ Curated list of learning resources
 | 4 | [React Testing Cookbook](https://egghead.io/series/react-testing-cookbook) | Video | 00:38:46 | Testing | Pluralsight | Trevor D. Miller | N/A | Partially
 | 5 | [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) | Video | 02:01:25 | Unidirectional Data Flow | Egghead | Dan Abramov | N/A | No
 | 6 | [Webpack: How-to](https://github.com/petehunt/webpack-howto) | Guide | N/A | JS Tooling | GitHub Repo | Pete Hunt | 09/02/2016 | No
+| 7 | [Building a Realtime Web Application with Meteor.js](https://www.pluralsight.com/courses/meteorjs-web-application) | Video | 03:26:00 | MeteorJS | Pluralsight | Rob Conery | 14/07/2015 | Yes
+| 8 | [Discover Meteor](https://www.discovermeteor.com/) | eBook | 14 Chapters | MeteorJS | Discover Meteor | Tom Coleman & Sacha Greif | 21/10/2015 | Yes
+| 9 | [Mastering Meteor](https://mastering.meteorjs.club/) | Video | 08:00:00 | MeteorJS | MeteorClub | Josh Owens | N/A | Yes
+| 10 | [Meteor For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV) | Video | 02:46:52 | MeteorJS | LevelUpTuts | Scott Tolinski | 22/11/2015 | No
+| 11 | [Intermediate Meteor](https://www.youtube.com/playlist?list=PLLnpHn493BHFYZUSK62aVycgcAouqBt7V) | Video | 03:19:55 | MeteorJS | LevelUpTuts | Scott Tolinkski | 16/12/2015 | No
+| 12 | [Introduction to Meteor.js Development](https://www.coursera.org/learn/meteor-development) | Course | 4 Weeks | MeteorJS | Coursera | Dr Matthew Yee-King | Recurring MOOC | No (Yes with certificate)
+| 13 | [Modern React with Redux](https://www.udemy.com/react-redux/) | Video | 10:30:00 | JS Frameworks | Udemy | Stephen Grider | N/A | Yes
 
 **Level 4**
 
@@ -72,6 +79,8 @@ Curated list of learning resources
 | 2 | [React: Flux Architecture (ES6)](https://egghead.io/series/react-flux-architecture-es6) | Video | 00:49:42 | Unidirectional Data Flow | Egghead | Joe Maddalone | N/A | No
 | 3 | [Introduction to Reactive Programming](https://egghead.io/series/introduction-to-reactive-programming) | Video | 00:50:55 | Reactive Programming | Egghead | André Staltz | N/A | Yes
 | 4 | [Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals) | Video | 01:37:37 | Reactive Programming | Egghead | André Staltz | N/A | No
+| 5 | [Mantra: An Application Architecture for MeteorJS](https://kadirahq.github.io/mantra/) | Guide | N/A | MeteorJS Architecture | KadiraHQ | N/A | 18/02/2016 | No
+| 6 | [BulletProof Meteor](https://bulletproofmeteor.com/) | Guide | N/A | MeteorJS Performance & Architecture | KadiraHQ | N/A | N/A | No
 
 **Level 5**
 
