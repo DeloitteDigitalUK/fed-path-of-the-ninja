@@ -15,3 +15,4 @@ The tables in our README.md file have the following columns:
 3. Some websites give duration of individual clips but not a total time for the course, it would be much appreciated if you could add up the time manually using this handy [Time Calculator](http://www.grun1.com/utils/timeCalc.html).
 4. For books, please provide total number of pages under the **length** column.
 5. For GitHub Repos, the release date is usually the date of the latest commit to master
+6. If the resource has both free and paid for options, put 'freemium' in the Paid? column.
