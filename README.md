@@ -69,6 +69,7 @@ Curated list of learning resources
 | 10 | [Meteor For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV) | Video | 02:46:52 | MeteorJS | LevelUpTuts | Scott Tolinski | 22/11/2015 | No
 | 11 | [Intermediate Meteor](https://www.youtube.com/playlist?list=PLLnpHn493BHFYZUSK62aVycgcAouqBt7V) | Video | 03:19:55 | MeteorJS | LevelUpTuts | Scott Tolinkski | 16/12/2015 | No
 | 12 | [Introduction to Meteor.js Development](https://www.coursera.org/learn/meteor-development) | Course | 4 Weeks | MeteorJS | Coursera | Dr Matthew Yee-King | Recurring MOOC | No (Yes with certificate)
+| 13 | [Modern React with Redux](https://www.udemy.com/react-redux/) | Video | 10:30:00 | JS Frameworks | Udemy | Stephen Grider | N/A | Yes
 
 **Level 4**
 
