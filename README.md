@@ -81,7 +81,7 @@ Curated list of learning resources
 | 4 | [Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals) | Video | 01:37:37 | Reactive Programming | Egghead | André Staltz | N/A | No
 | 5 | [Mantra: An Application Architecture for MeteorJS](https://kadirahq.github.io/mantra/) | Guide | N/A | MeteorJS Architecture | KadiraHQ | N/A | 18/02/2016 | No
 | 6 | [BulletProof Meteor](https://bulletproofmeteor.com/) | Guide | N/A | MeteorJS Performance & Architecture | KadiraHQ | N/A | N/A | No
-| 7 | [BEM with Sass](http://atozcss.com/video/beginner/bem-with-sass/?wkey=bXNlcmlub0BkZWxvaXR0ZS5jby51aw==&foreign_data=mailchimp_campaign_id%3A40d1996946) | Video | 00:08:19 | BEM methodology with Sass and best practices | A to Z Css | @atozcss | 15/03/2016 | No
+| 7 | [BEM with Sass](http://atozcss.com/video/beginner/bem-with-sass/) | Video | 00:08:19 | BEM methodology with Sass and best practices | A to Z Css | @atozcss | 15/03/2016 | No
 
 **Level 5**
 
