@@ -4,7 +4,7 @@ Curated list of learning resources
 
 ## Mindmap
 
-[FED Path of the Ninja Mindmap](./fed.mindmap.jpg)
+![FED Path of the Ninja Mindmap](./fed.mindmap.jpg)
 
 **Path Of The Ninja**
 
