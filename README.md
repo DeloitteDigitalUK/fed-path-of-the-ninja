@@ -4,7 +4,7 @@ Curated list of learning resources
 
 ## Mindmap
 
-![alt text](https://github.com/DeloitteDigitalUK/fed-path-of-the-ninja/blob/master/fed.mindmap.jpg "FED Path of the Ninja Mindmap")
+[FED Path of the Ninja Mindmap](./fed.mindmap.jpg)
 
 **Path Of The Ninja**
 
