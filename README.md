@@ -89,7 +89,9 @@ Curated list of learning resources
 
 **Level 5**
 
-*TODO*
+| **#** | **Course Name** | **Type** | **Length** | **Topic** | **Source** | **Author** | **Release Date** | **Paid?** |
+| ----- | --------------- | -------- | ---------- | --------- | ---------- | ---------- | ---------------- | ------- |
+| 1 | [D3 Lessons](https://egghead.io/technologies/d3?order=ASC) | Video | 01:29:10 | D3 | Egghead | Ben Clinkinbeard | N/A | Partially
 
 **Level 6**
 
